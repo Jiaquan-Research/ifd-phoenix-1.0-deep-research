@@ -10,3 +10,13 @@ __pycache__/
 
 # Temp files
 zzz_test.py
+main/
+# ---------------------------------------
+# Deep Research artifacts must be tracked
+# ---------------------------------------
+!deep_research/
+!deep_research/**
+!deep_research/main/
+!deep_research/main/**
+!deep_research/results/
+!deep_research/results/**

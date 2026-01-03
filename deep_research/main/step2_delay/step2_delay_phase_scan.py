@@ -155,11 +155,12 @@ def run_once(delay: int, seed: int) -> int:
 # ============================================================
 
 def repo_root() -> Path:
-    return Path(__file__).resolve().parents[2]
-
+    # deep_research/main/step2_delay/step2_delay_phase_scan.py
+    # parents[3] -> deep_research
+    return Path(__file__).resolve().parents[3]
 
 def main():
-    out_dir = repo_root() / "results" / "step2_phase_collapse"
+    out_dir = Path("deep_research/results/step2_phase_collapse")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     rows = []
