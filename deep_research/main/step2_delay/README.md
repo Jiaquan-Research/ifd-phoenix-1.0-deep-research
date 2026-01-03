@@ -39,3 +39,15 @@ Step 1 shows that a stable gradient exists.
 Step 2 shows that **the same gradient becomes lethal once feedback delay exceeds the phase margin**.
 
 All subsequent steps (2b–4) refine, bound, or extend this phenomenon.
+
+## Reproducibility Note
+
+This directory does not include pre-generated result files.
+
+All figures and numerical outcomes described in the accompanying text
+are deterministically reproducible by executing the script in this folder
+under the frozen core (`src_frozen/`).
+
+This design is intentional:
+- to avoid cherry-picked artifacts
+- to emphasize causal structure over numerical tuning
