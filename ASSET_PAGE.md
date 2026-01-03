@@ -7,7 +7,7 @@ This page serves as a navigation entry for the sealed research artifact
 
 ## 📄 Primary Asset (Sealed)
 
-**➡️ [Download: IFD_Phoenix_1.0_AssetPage.pdf](./assets/IFD_Phoenix_1.0_AssetPage.pdf)**
+**➡️ [Download: IFD_Phoenix_1_0_AssetPage.pdf](./assets/IFD_Phoenix_1_0_AssetPage.pdf)**
 
 The PDF contains the authoritative version of this research asset, including:
 
