@@ -1,0 +1,14 @@
+{
+  "delay": 20,
+  "dist_decay_rest": 0.03,
+  "dist_inc_forage": 0.06,
+  "forage_cost": 0.1,
+  "gain": 4.0,
+  "initial_buffer": 25.0,
+  "metabolic_cost": 0.05,
+  "pop": 100,
+  "seed": 2026,
+  "steps": 1000,
+  "thr_hi": 0.6,
+  "thr_lo": 0.3
+}

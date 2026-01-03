@@ -1,0 +1,6 @@
+{
+  "final_sys1_alive": 100,
+  "final_sys2_alive": 100,
+  "sys1_extinction_step": 999,
+  "sys2_extinction_step": 999
+}
